@@ -7,7 +7,7 @@ It is okay to read someone's code and learn from it, so if you find my code usef
 <div>
   <b>Overview</b><br/>
   An inventory system that keeps track of items available and ensure stock does not fall below a specific count.
-  <p>The system tracks the following information about an item:</p>
+  The system tracks the following information about an item:
   <ul>
     <li>SKU number</li>
     <li>Item name (max of 20 characters)</li>
@@ -25,7 +25,7 @@ It is okay to read someone's code and learn from it, so if you find my code usef
     <li>Add a new item to the inventory or update an already existing item</li>
     <li>Delete an item from the inventory (optional for extra marks)</li>
     <li>Search for an item by its name (optional for extra marks)</li>
-    <li>Sort Items by Name (optional for extra marks)<li>
+    <li>Sort Items by Name (optional for extra marks)</li>
   </ul>
 </div>
 
