@@ -16,7 +16,7 @@ It is okay to read someone's code and learn from it, so if you find my code usef
     <li>Price of item</li>
     <li>Is item taxed</li>
   </ul>
-  <p>The system performs the following tasks:</p>
+  The system performs the following tasks:
   <ul>
     <li>Print a detailed list of all the items in the inventory</li>
     <li>Search and display an item by its SKU number</li>
