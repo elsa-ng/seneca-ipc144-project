@@ -20,7 +20,7 @@ It is okay to read someone's code and learn from it, so if you find my code usef
   <ul>
     <li>Print a detailed list of all the items in the inventory</li>
     <li>Search and display an item by its SKU number</li>
-    <li>Checkout an item to be delivered to the shelf for sale<li>
+    <li>Checkout an item to be delivered to the shelf for sale</li>
     <li>Add to stock items that are recently purchased for inventory (add to their quantity)</li>
     <li>Add a new item to the inventory or update an already existing item</li>
     <li>Delete an item from the inventory (optional for extra marks)</li>
