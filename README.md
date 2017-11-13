@@ -79,3 +79,8 @@ It is okay to read someone's code and learn from it, so if you find my code usef
     <li>Document/comment on errors encountered, fixes implemented, and additional features added</li>
   </ul>
 </div>
+
+<div>
+  <b>Milestone 5 - The Extras/Bonuses: Delete and Search by Name</b><br/>
+  Build on the final assembly and implement the delete and search by name functions.
+</div>
