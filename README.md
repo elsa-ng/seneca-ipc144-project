@@ -35,5 +35,17 @@ It is okay to read someone's code and learn from it, so if you find my code usef
     <li>Selection constructs such as optional sequence, alternative sequence and conditional expression</li>
     <li>Iteration constructs such as while, do while and for</li>
     <li>Nested constructs</li>
+    <li>I/O Functions</li>
+  </ul>
+</div>
+
+<div>
+  <b>Milestone 2 - Item Input and Output</b><br/>
+  Implement item related functions using knowledge learned in previous lectures such as:
+  <ul>
+    <li>String Library</li>
+    <li>Arrays</li>
+    <li>Structures</li>
+    <li>Pointers</li>
   </ul>
 </div>
