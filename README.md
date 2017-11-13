@@ -59,3 +59,23 @@ It is okay to read someone's code and learn from it, so if you find my code usef
     <li>Add a new item the array</li>
   </ul>
 </div>
+
+<div>
+  <b>Milestone 4 - File IO</b><br/>
+  Build on milestone 3 and implement functions that work with file input/output:
+  <ul>
+    <li>Save item(s) to a text file</li>
+    <li>Load item(s) from a file</li>
+  </ul>
+</div>
+
+<div>
+  <b>Milestone 4a - Final Assembly</b><br/>
+  Putting it all together by: 
+  <ul>
+    <li>Add a main function to 144_ms4.c</li>
+    <li>Modify the GroceryInventorySystem function (done in milestone 1)</li>
+    <li>Test the application using black-box and white-box techniques to ensure application executes as intended</li>
+    <li>Document/comment on errors encountered, fixes implemented, and additional features added</li>
+  </ul>
+</div>
