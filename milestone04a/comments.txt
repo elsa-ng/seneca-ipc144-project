@@ -1,0 +1,35 @@
+/*
+ * Milestone 4 - Final Product Comments
+ * IPC 144 - Section Q
+ * Name: Wai Chi Ng
+ * Student ID: 140634163
+ * Email: wcng1@myseneca.ca
+ * comments.txt
+ * Date: April 9, 2017
+ */
+
+The logic that I have used to produce the code for this project is derived from materials that I have learned in this course plus a bit of experientation.
+For example, after learning about formatted output, I experimented with he conversion control and use it (to replace the spaces) in the printf() statements that print out the titles.
+For example, instead of writing printf("          SKU: %d", newEntry.sku), I wrote printf("%13s%d", "SKU: ", newEntry.sku).
+
+I have not enhanced my solution with features that are not listed in the specifications; however, I have made some modifications to the codes that I have written and submitted previously. I will list them below for your review:
+
+int getInt(void);
+- The specification / instruction includes a flowchat suggesting the logic of getInt(). In the previous milestones that I had submitted I followed the suggestion, but after learning more about inputs I have decided to modify this function.
+- Instead of initializing NL to x (as suggested in the flowchat), I remove the initialization completely and simply declare NL of type char. 
+- I also replace the while loop with a do-while loop, so the loop will run at least once and will loop if NL does not equal to the newline character "\n".
+- Since the loop will run at least once, NL will obtain an input from scanf() during its initial run.
+- If NL != \n then an error message will be printed.
+- If NL == \n then the loop will exit at the bottom.
+
+int getDouble(void);
+- Same modification as getInt()
+
+int locateItem(const struct Item item[], int NoOfRecs, int sku, int* index);
+- This function is modified to include a flag to stop the iteration when a match is found. 
+- Instead of simply declaring result of type int, I have initialized result to equal to 0 and then use it as a flag.
+- If a match is found, then result will be set to 1 which will then terminate the loop.
+
+int saveCheck(const struct Item item[], char fileName[], int NoOfRecs);
+- I have created this function as suggested in the specification to minimize the redunency of the codes being repeatedly implemented in 3 different locations.
+- saveCheck() checks and see if saveItems() has successfully written information to the file, if unsuccessful then an error message is displayed.
