@@ -2,7 +2,7 @@
 <p><b>Winter 2017 IPC144 Grocery Store Inventory System</b></p>
 
 <p><b>Keep Calm, Code On and Don't Plagiarize!</b><br/>
-It is okay to read someone's code and learn from it, so if you find my code useful and would like to include it in your solution then please reference it.</p>
+It is okay to read someone's code and learn from it. If you find my code useful and would like to include it in your solution then please reference it.</p>
 
 <div>
   <b>Overview</b><br/>
