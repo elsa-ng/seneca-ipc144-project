@@ -41,11 +41,21 @@ It is okay to read someone's code and learn from it, so if you find my code usef
 
 <div>
   <b>Milestone 2 - Item Input and Output</b><br/>
-  Implement item related functions using knowledge learned in previous lectures such as:
+  Build on milestone 1 and implement item related functions using knowledge learned in recent lectures such as:
   <ul>
     <li>String Library</li>
     <li>Arrays</li>
     <li>Structures</li>
     <li>Pointers</li>
+  </ul>
+</div>
+
+<div>
+  <b>Milestone 3 - Item Storage and Retrieval in Array</b><br/>
+  Build on milestone 2 and implement functions that work with an array of items to perform the following:
+  <ul>
+    <li>Search through an array of items using an item's SKU</li>
+    <li>Update an item's information</li>
+    <li>Add a new item the array</li>
   </ul>
 </div>
